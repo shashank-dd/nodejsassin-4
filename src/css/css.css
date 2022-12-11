@@ -1,0 +1,17 @@
+.container{
+    display: flex;
+    flex-direction: row;
+    
+flex-wrap: wrap;
+background-color: aqua;
+}
+#block{
+width: 250px;
+margin-right: 10px;
+
+margin-bottom: 50px;
+}
+img{
+    width: 100%;
+    border: 3px white solid;
+}
